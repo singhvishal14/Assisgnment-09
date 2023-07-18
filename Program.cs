@@ -26,15 +26,21 @@ namespace Assisgnment_09
                 Console.WriteLine("Enter Email");
                 Email = Console.ReadLine();
 
-                if (Username.Length < 6)
+                if (Username.Length >= 6 && Password.Length >= 8)
                 {
-                    throw new ValidationException($"{Username} must be atleast 6 characters");
+                    Console.WriteLine($"entered Username and Password is Valid So: \n Login Successfully!!!!");
                 }
-                if (Password.Length < 8)
-                {
-                    throw new ValidationException($"{Password} must be atleast 8 characters");
-                }
+                else{
+                    if (Username.Length < 6)
+                    {
+                        throw new ValidationException($"{Username} must be atleast 6 characters");
+                    }
+                    if (Password.Length < 8)
+                    {
+                        throw new ValidationException($"{Password} must be atleast 8 characters");
+                    }
 
+            }
             }
             catch(ValidationException ex) { Console.WriteLine("Validaton error: "+ex.Message); }
             catch(Exception ex) { Console.WriteLine("Error: "+ex.Message); }
