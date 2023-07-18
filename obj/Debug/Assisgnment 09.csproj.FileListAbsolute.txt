@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\bin\Debug\Assisgnment 09.exe.config
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\bin\Debug\Assisgnment 09.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\bin\Debug\Assisgnment 09.pdb
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\obj\Debug\Assisgnment 09.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\obj\Debug\Assisgnment 09.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\obj\Debug\Assisgnment 09.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\obj\Debug\Assisgnment 09.exe
+C:\Users\Administrator\Desktop\Angular Self paced\Assisgnment\Assisgnment 09\Assisgnment 09\obj\Debug\Assisgnment 09.pdb
